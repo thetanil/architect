@@ -30,7 +30,8 @@ None so far.
 
 ### 0.1.0
 
-Just publish hello-world.
+Just publish hello-world. [devops
+publisher](https://dev.azure.com/thetanil/thetanil-architect)
 
 ---
 
