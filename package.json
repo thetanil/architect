@@ -1,13 +1,13 @@
 {
     "name": "thetanil-architect",
-    "displayName": "thetanil-architect",
+    "displayName": "Theta Nil Architect",
     "publisher": "thetanil",
-    "description": "Theta Nils Solutions Architect Extension",
+    "description": "Solutions Architect Documentation Authoring Tools",
     "repository": {
         "type": "git",
         "url": "https://github.com/thetanil/architect.git"
     },
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.89.0"
     },
