@@ -28,6 +28,14 @@ None so far.
 
 ## Release Notes
 
+### 0.2.1
+
+Fix for CI pipeline
+
+### 0.2.0
+
+CI Release with GitHub Actions
+
 ### 0.1.0
 
 Just publish hello-world. [devops
