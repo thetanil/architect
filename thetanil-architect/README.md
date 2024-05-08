@@ -46,4 +46,10 @@ Ensure that you've read through the extensions guidelines and follow the best pr
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
+## Publisher Info
+
+* [Extension URL:](https://marketplace.visualstudio.com/items?itemName=thetanil.thetanil-architect)
+* [Hub URL:](https://marketplace.visualstudio.com/manage/publishers/thetanil/extensions/thetanil-architect/hub)
+* [marketplace profile url:](https://marketplace.visualstudio.com/manage/publishers/thetanil)
+
 **Enjoy!**
