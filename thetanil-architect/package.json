@@ -1,8 +1,9 @@
 {
   "name": "thetanil-architect",
   "displayName": "thetanil-architect",
-  "description": "Theta Nils Architect Extension",
-  "version": "0.0.1",
+  "publisher": "thetanil",
+  "description": "Theta Nils Solutions Architect Extension",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.89.0"
   },
