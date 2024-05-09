@@ -1,4 +1,4 @@
-name: ESLint
+name: Publish Extension
 
 on:
   push:
